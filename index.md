@@ -1,2 +1,2 @@
-## Mambo start from here.
+## Mambo starts from here.
 
